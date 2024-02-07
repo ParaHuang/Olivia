@@ -4,6 +4,7 @@ public class Main2 {
 
 	public static void main(String[] args) {
 		f();
+		float f = 1.2f;
 	}
 
 	public static void f(int i) {

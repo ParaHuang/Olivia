@@ -1,6 +1,9 @@
 package day2;
 
 class TypeTester {
+	
+//	public static boolean printType(boolean b){return b;}
+	
     public static void printType(boolean b) {
         System.out.println(b + " is a boolean");
     }
